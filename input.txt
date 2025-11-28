@@ -1,0 +1,314 @@
+Bagaimana memantau kemajuan proyek
+
+Bagaimana Anda tahu apakah proyek Anda 
+
+masih sesuai target untuk diselesaikan tepat waktu, 
+
+atau sudah mulai agak terlambat? 
+
+Jawabannya, dan satu-satunya cara untuk mengetahui perkembangannya 
+
+adalah langkah sembilan dari proses 12 langkah saya.
+
+Dan itu untuk mewarnai bagan Gantt Anda 
+
+untuk memantau kemajuan Anda terhadap rencana Anda.
+
+Warnai apa yang telah Anda lakukan dan pastikan 
+
+Anda mengikuti garis hari ini, 
+
+yang bergerak tanpa henti melintasi halaman.
+
+Ini adalah salah satu bagian tercepat dan termudah 
+
+dari manajemen proyek.
+
+Namun, seringkali, orang tidak melakukannya.
+
+Mereka membuat bagan Gantt besar 
+
+yang indah untuk mengesankan pelanggan mereka, 
+
+atau membujuk bos mereka untuk membiarkan mereka mengerjakan proyek tersebut, 
+
+dan kemudian mereka menyimpannya dan tidak pernah menggunakannya lagi.
+
+Sayang sekali, ketika pewarnaan 
+
+begitu cepat dan sangat berguna.
+
+Dan alternatifnya tidak bagus sama sekali.
+
+Jika Anda tidak memiliki rencana atau jika Anda memiliki rencana 
+
+tetapi Anda tidak memantau kemajuan Anda terhadapnya, 
+
+Anda tidak akan tahu di mana Anda berada 
+
+sampai Anda hampir mencapai akhir.
+
+Dan kemudian begitu tanggal selesai sudah di depan mata, 
+
+Anda tiba-tiba menyadari bahwa Anda tidak akan berhasil.
+
+Saya menganggapnya seolah-olah Anda sedang berlari maraton.
+
+Anda tiba di tikungan dan Anda melihat penyelesaiannya, 
+
+lalu Anda melihat jam tangan Anda dan Anda berpikir, 
+
+"Oh tidak, aku hanya punya satu menit lagi 
+
+" dan finish masih satu mil jauhnya.
+
+"Aku tidak akan pernah selesai dalam waktu yang direncanakan." 
+
+Atau setidaknya sangat mahal dan membuat stres 
+
+untuk menyelesaikannya dalam waktu yang Anda rencanakan.
+
+Jauh lebih baik memiliki pencapaian di sepanjang jalan 
+
+dan kemudian Anda tahu Anda baik-baik saja dan Anda merasa baik.
+
+Atau Anda tahu Anda sedikit melenceng 
+
+dan Anda punya banyak waktu untuk mengejar ketinggalan.
+
+Anda hanya perlu mempercepat persentase kecil 
+
+untuk kembali ke jalur semula.
+
+Atau Anda dapat memberi tahu pelanggan jauh sebelumnya 
+
+bahwa Anda akan terlambat.
+
+Daripada memberi mereka kejutan menit terakhir, 
+
+yang tidak pernah populer.
+
+Anda dapat melihat pada diagram ini 
+
+bahwa saya tidak mengikuti garis hari ini, 
+
+saya jauh di belakang rencana.
+
+Saya bahkan belum mendapatkan izin, 
+
+apalagi mulai membeli situs tersebut.
+
+Dan saya ketinggalan dalam menemukan situs dan mendapatkan manajer saya.
+
+Sementara yang satu ini, 
+
+saya mengikuti garis 
+
+yang ingin saya lihat.
+
+Jadi jika saya hanya punya satu menit untuk memeriksa proyek Anda, 
+
+jika saya hanya punya waktu untuk mengajukan satu pertanyaan, 
+
+pertanyaan saya adalah, 
+
+"Bisakah saya melihat warna Anda di bagan Gantt?" 
+
+Satu-satunya alternatif untuk warna di bagan Gantt 
+
+adalah di mana saya bertanya kepada Anda bagaimana hasilnya 
+
+dan Anda bercerita kepada saya.
+
+"Oh ya, kami menemukan gedung yang sangat bagus.
+
+Butuh waktu lama, saya pikir kami tidak akan pernah 
+
+" menemukan tempat yang layak, 
+
+"tapi lihat ini fotonya", 
+
+yang memakan waktu lebih lama dan kurang berguna .
+
+Karena ini memberi tahu Anda bahwa Anda telah menyelesaikan
+
+tapi bukan yang Anda harus selesaikan sekarang
+
+Anda menemukan bangunan, itu bagus
+
+tapi mungkin Anda harus sudah membelinya sekarang.
+
+Apakah Anda berada di tempat yang seharusnya?
+
+" Saya tidak tahu." 
+
+tapi yang diwarnai di Gantt langsung jelas 
+
+Jadi prosesnya adalah Anda mengadakan rapat, 
+
+biasanya sebulan sekali, 
+
+tetapi untuk proyek yang lebih pendek mungkin seminggu sekali, 
+
+dan Anda mewarnai bar.
+
+Untuk bilah panjang Anda mungkin mewarnai beberapa di antaranya, 
+
+mungkin dengan bantuan apa yang saya sebut sub-Gantt, 
+
+Anda mungkin memiliki rencana lokal yang lebih terperinci 
+
+hanya untuk tugas itu.
+
+Misalnya, memodifikasi bangunan pada denah tingkat tinggi kita,
+
+mungkin memiliki keseluruhan denah terperinci di belakangnya 
+
+yang memungkinkan kita untuk mewarnai bagian pertama 
+
+batang panjang itu saja.
+
+Dan kemudian untuk setiap bagian dari proyek 
+
+yang tertinggal, 
+
+terutama jika berada di jalur kritis, 
+
+kita dapat mulai berpikir tentang bagaimana 
+
+kita akan mengejar ketinggalan.
+
+Jadi itulah langkah sembilan, 
+
+mewarnai untuk memantau kemajuan.
+
+Dan saya pikir Anda akan setuju 
+
+bahwa untuk semua proyek Anda, 
+
+Anda pasti perlu memiliki warna di bagan Gantt.
+Bagaimana mempercepat rencana Anda
+
+[Instruktur] Mempercepat proyek adalah langkah kelima. 
+
+Dan ini biasanya dikenal sebagai crashing. 
+
+Jika rencana Anda keluar pada jumlah minggu 
+
+yang lebih tinggi dari yang Anda harapkan, yang sering terjadi, 
+
+Anda harus memutuskan apakah akan menerima berita buruk 
+
+atau mempercepatnya. 
+
+Dua opsi utama untuk mempercepatnya adalah dengan 
+
+menambah sumber daya, pada dasarnya membuang lebih banyak orang 
+
+ke dalamnya atau bekerja di akhir pekan atau malam hari atau menyewa 
+
+peralatan khusus atau sesuatu atau untuk mengurangi
+
+kualitas atau spesifikasi, mengambil beberapa 
+
+dari pilihan yang bagus untuk dimiliki 
+
+daripada yang penting. 
+
+Jadi uang naik atau kualitas turun. 
+
+Tidak ada yang ideal tetapi jika waktu adalah pendorong utama Anda 
+
+maka itulah yang harus Anda lakukan. 
+
+Ada satu opsi lagi 
+
+dan itu untuk tumpang tindih beberapa tugas. 
+
+Ini sering melibatkan beberapa risiko. 
+
+Misalnya, Anda mungkin mulai membeli peralatan 
+
+sebelum membeli bangunan, yang kedengarannya cukup berisiko. 
+
+Tapi ingat bahwa bagian pertama dari membeli peralatan 
+
+hanya mendapatkan beberapa penawaran. 
+
+Jadi bukan risiko besar untuk sedikit tumpang tindih. 
+
+Kadang-kadang ketika Anda tumpang tindih tugas, yang terbaik 
+
+adalah memecahnya sedikit lagi. 
+
+Jadi dalam contoh membeli peralatan sebelum 
+
+membeli gedung, Anda bisa memecah pembeliannya 
+
+untuk mendapatkan penawaran, menempatkan pesanan, dan kemudian 
+
+menunggu pengiriman. 
+
+Jadi kita bisa mendapatkan penawaran meskipun gedungnya 
+
+belum dibeli tapi mungkin tidak melakukan pemesanan 
+
+sampai setelah kita benar-benar memiliki gedungnya. 
+
+Sekarang, saya hanya ingin membahas beberapa prinsip penting 
+
+tentang proses percepatan rencana ini. 
+
+Pertama adalah jangan membengkokkan perkiraan Anda agar sesuai 
+
+dengan yang saya maksud jika Anda tahu Anda harus melakukan pekerjaan 
+
+itu dalam 20 minggu, jangan katakan, "Ya, kami hanya punya 20 minggu 
+
+
+" Totalnya jadi kami akan punya hanya menempatkan lima minggu 
+
+"untuk membeli situs." 
+
+Jika menurut Anda membeli situs akan membutuhkan 10, maka masukkan 10. 
+
+Masukan kebenaran dalamrencana karena bisa jadi
+
+Anda hanya memiliki rencana yang penuh kebohongan dan tidak akan pernah terjadi. 
+
+Dan Anda akan segera mengetahuinya ketika Anda mulai 
+
+mencoba menerapkannya. 
+
+Poin lainnya adalah jangan mengambil kontingensi kembali 
+
+untuk mempercepat rencana Anda. 
+
+Jika Anda harus melakukan pekerjaan itu dalam 34 minggu dan rencana Anda 
+
+mencapai itu tetapi kemudian dengan kontingensi naik 
+
+menjadi 43, Anda perlu menurunkannya kembali menjadi 34 
+
+dengan memasukkan uang, mengurangi ruang lingkup, 
+
+atau tumpang tindih beberapa tugas , bukan dengan mengambil
+
+kemungkinan yang akan Anda perlukan. 
+
+Pada dasarnya apa yang Anda lakukan adalah membuat rencana untuk melakukannya 
+
+katakanlah 25 dan kemudian menambahkan sembilan minggu 
+kontingensi Anda 
+
+sehingga Anda mendapatkan rencana yang 90% andal untuk melakukan 
+
+pekerjaan dalam 34 minggu. 
+
+Jadi begitulah cara Anda merusak rencana Anda tanpa 
+
+membuat perkiraan yang Anda tahu tidak akan terjadi dan tanpa mengambil  
+
+kembali kontingensi itu. 
+
+Anda melakukannya dengan uang naik, kualitas turun, atau tumpang tindih.
