@@ -1,3 +1,4 @@
+import os
 from dotenv import load_dotenv
 from langchain_text_splitters  import TextSplitter
 from typing import List, Any
@@ -15,7 +16,7 @@ class LLMTextSplitter(TextSplitter):
 
     def __init__(
         self,
-        model_name: str = "gpt-3.5-turbo",
+        model_name: str = os.environ["OPENAI_MODEL"],
         prompt_type: str = "wide",
         count_tokens: bool = False,
         encoding_name: str = "cl100k_base",
