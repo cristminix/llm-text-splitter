@@ -1,7 +1,7 @@
 [project]
 name = "llm-text-splitter"
 version = "0.1.0"
-description = "Add your description here"
+description = "Example usage of LLM Text Splitter"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
